@@ -76,11 +76,3 @@ Para corrigir o problema:
 2. **Verificação de Outras Regras**: Certificar-se de que todas as regras estejam sendo aplicadas corretamente e sem sobreposição indevida de categorias.
 
 ---
-
-## Contribuições
-
-Se você identificar melhorias ou ajustes que podem ser feitos no código para corrigir esse comportamento, fique à vontade para contribuir com uma **pull request**!
-
----
-
-Essa versão está formatada para exibição no GitHub, com títulos, listas e ênfases apropriadas para facilitar a leitura e a compreensão.
