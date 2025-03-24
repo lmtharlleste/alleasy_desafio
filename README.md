@@ -102,7 +102,7 @@ Mas, pela lógica proposta no arquivo de regras e descritas como foi encontrada 
   {
     "id": 4,
     "categorias": [
-      "D"
+      "B"
     ]
   }
 ]
